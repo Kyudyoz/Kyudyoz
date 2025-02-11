@@ -1,6 +1,7 @@
 # 💫 About Me:
 # Hi, There 👋
 
+
 ## About Me
 I'm a passionate developer with a love for building innovative projects and exploring new technologies. I believe in continuous learning and am always looking for new challenges to grow both professionally and personally.
 - 🔭 **Currently working on:** Thesis with Laravel Inertia React
